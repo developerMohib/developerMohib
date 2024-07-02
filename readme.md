@@ -73,8 +73,7 @@
 </div>
 
 <br/>
-
-<h3 align="center" style="color: #00f0ff;">Languages and Tools:</h3>
+<br/>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin: 10px;"/>
@@ -127,6 +126,26 @@
 <a href="https://fb.com/mohibullah.jubileean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohibullah.jubileean" height="30" width="40" /></a>
 <a href="https://dribbble.com/developermohib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="developermohib" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /></a>
+</p>
+<p>test</p>
+<h3 align="center" style="color: #00f0ff;">Connect with me:</h3>
+<p align="center" style="background-color: black; padding: 10px; border-radius: 10px;">
+  <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank" style="margin: 0 15px; text-decoration: none; color: #00f0ff;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <br/>LinkedIn
+  </a>
+  <a href="https://fb.com/mohibullah.jubileean" target="_blank" style="margin: 0 15px; text-decoration: none; color: #00f0ff;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <br/>Facebook
+  </a>
+  <a href="https://dribbble.com/developermohib" target="_blank" style="margin: 0 15px; text-decoration: none; color: #00f0ff;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" />
+    <br/>Dribbble
+  </a>
+  <a href="https://codeforces.com/profile/barnard_shaw" target="_blank" style="margin: 0 15px; text-decoration: none; color: #00f0ff;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <br/>Codeforces
+  </a>
 </p>
 
 
