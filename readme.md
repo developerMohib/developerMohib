@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/developerMohib/developerMohib/master/hi.gif" width="50px" height="50px">, I'm Mohibullah Mohim </h1>  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/developerMohib/developerMohib/main/hi.gif" width="50px" height="50px">, I'm Mohibullah Mohim </h1>  
 <h3 align="center">A passionate web developer from 🇧🇩</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
