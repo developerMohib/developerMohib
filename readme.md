@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/developerMohib/developerMohib/main/hi.gif" width="50px" height="50px">, I'm Mohibullah Mohim </h1>  
+<h3 align="center">A passionate web developer from BD </h3> 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h3>About Me </h3>
-<h3 align="left">A passionate web developer from BD </h3>  
+<h3>About Me </h3> 
 <ul>
   <li>I have been very passionate about computers, programming, and web development. </li>
   <li>To build up myself as an expert a web developer to build professional and valuable web applications that growth business value.</li>
@@ -11,7 +12,8 @@
   <li>Good reputation for resolving problems and improving client satisfaction</li>
 </ul>
 
-- 🔭 I’m currently working on [Bisto-Boss](https://bisto-boss-b3cc1.web.app/)
+
+## My focus
 - 🔭 I’m currently working on [Manage-Assets](https://manage-asset-b4cd2.web.app/)
 
 
