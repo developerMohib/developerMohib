@@ -13,10 +13,6 @@
 
 <h1> Current Stats </h1>
 <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohib&background=000000&border=ffffff&stroke=ffffff&ring=00f0ff&fire=fb8c00&currStreakLabel=fb8c00&sideNums=00f0ff&currStreakNum=fb8c00&sideLabels=00f0ff&dates=ffffff" alt="developermohib" />
-</p>
-<h1> Current Stats </h1>
-<p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohib&background=000000&border=ffffff&stroke=ffffff&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&sideNums=00f0ff&currStreakNum=fb8c00&sideLabels=00f0ff&dates=ffffff" alt="developermohib" />
 </p>
 
