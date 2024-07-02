@@ -125,13 +125,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en" alt="developermohib" /></p>
 
 
-<p style="background-color: black;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00ff00" alt="Top Languages" />
-</p>
+<div style="background-color: black; color: white; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+    <p>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00ff00" alt="Top Languages" />
+    </p>
 
-<p>&nbsp;</p>
+    <p>&nbsp;</p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en&bg_color=000000&title_color=fb8c00" alt="GitHub Stats" />
-</p>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en&bg_color=000000&title_color=fb8c00" alt="GitHub Stats" />
+    </p>
+</div>
 
