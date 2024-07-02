@@ -95,18 +95,7 @@
 <br />
 
 
-
-
-
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohibullah-mohim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohibullah-mohim" height="30" width="40" /></a>
-<a href="https://fb.com/mohibullah.jubileean" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohibullah.jubileean" height="30" width="40" /></a>
-<a href="https://dribbble.com/developermohib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="developermohib" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /></a>
-</p>
-
 <div align="center">
   <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
@@ -128,6 +117,21 @@
   </a>
 </div>
 
+## My activity on other
+<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en" alt="developermohib" /></p>
+
+
+<p style="background-color: black;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=00ff00" alt="Top Languages" />
+</p>
+
+<p>&nbsp;</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en&bg_color=000000&title_color=fb8c00" alt="GitHub Stats" />
+</p>
+
