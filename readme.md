@@ -15,6 +15,8 @@
 
 ## My focus
 - 🔭 I’m currently working on [Manage-Assets](https://manage-asset-b4cd2.web.app/)
+- 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
+- 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
 
 
 <h1> Current Stats </h1>
