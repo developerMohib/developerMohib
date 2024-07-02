@@ -1,11 +1,20 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/developerMohib/developerMohib/main/hi.gif" width="50px" height="50px">, I'm Mohibullah Mohim </h1>  
-<h3 align="center">A passionate web developer from BD </h3> 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<div id="header" align="center" style="width: 100%;">
+    <img src="https://i.postimg.cc/C1nd8mzQ/github-header-image.png" alt="Banner Image" style="width: 100%;">
+</div>
 
+
+
+
+
+<h1 align="center">Hi 👋 There </h1>  
+<h3 align="center"> I am passionate web developer from BD </h3> 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+<h3>About Me </h3> 
+<p> I'm a passionate front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience.</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br/>
-<h3>About Me </h3> 
+
 <ul>
   <li>I have been very passionate about computers, programming, and web development. </li>
   <li>To build up myself as an expert a web developer to build professional and valuable web applications that growth business value.</li>
