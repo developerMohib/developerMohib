@@ -20,6 +20,27 @@
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
 - 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
 <br/>
+<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
+  </a>
+  <a href="https://fb.com/mohibullah.jubileean" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
+  </a>
+  <a href="https://wa.me/8801706439736" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
+  </a>
+  <a href="mohibullahmohim2020@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
+  </a>
+</div>
 
 
 <h1> Current Stats </h1>
@@ -94,33 +115,10 @@
 <br />
 <br />
 
-
-<h3 align="left">Connect with me:</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
-  </a>
-  <a href="https://fb.com/mohibullah.jubileean" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="facebook logo"  />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="discord logo"  />
-  </a>
-  <a href="https://wa.me/8801706439736" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
-  </a>
-  <a href="mohibullahmohim2020@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
-  </a>
-</div>
-
 ## My activity on other
-<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /> Code forces </a>
 
-<p style="background-color: black;" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en" alt="developermohib" /></p>
 
