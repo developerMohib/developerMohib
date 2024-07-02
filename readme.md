@@ -5,10 +5,14 @@
 <h3>About Me </h3>
 <h3 align="left">A passionate web developer from BD </h3>  
 <ul>
-  <li> I have been very passionate about computers, programming, and web development since university. </li>
+  <li>I have been very passionate about computers, programming, and web development. </li>
+  <li>To build up myself as an expert a web developer to build professional and valuable web applications that growth business value.</li>
+  <li>Fresher in Web Development as a front-end developer.</li>
+  <li>Good reputation for resolving problems and improving client satisfaction</li>
 </ul>
 
 - 🔭 I’m currently working on [Bisto-Boss](https://bisto-boss-b3cc1.web.app/)
+- 🔭 I’m currently working on [Manage-Assets](https://manage-asset-b4cd2.web.app/)
 
 
 <h1> Current Stats </h1>
