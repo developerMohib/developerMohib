@@ -1,7 +1,12 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/developerMohib/developerMohib/main/hi.gif" width="50px" height="50px">, I'm Mohibullah Mohim </h1>  
-<h3 align="center">A passionate web developer from 🇧🇩</h3>  
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3>About Me </h3>
+<h3 align="left">A passionate web developer from BD </h3>  
+<ul>
+  <li> I have been very passionate about computers, programming, and web development since university. </li>
+</ul>
 
 - 🔭 I’m currently working on [Bisto-Boss](https://bisto-boss-b3cc1.web.app/)
 
