@@ -21,7 +21,7 @@
 - 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
 <br/>
 <h3 align="left">Connect with me:</h3>
-<div align="center">
+<div align="left">
   <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
 
 <h1> Current Stats </h1>
 <br/>
@@ -51,10 +51,7 @@
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
-
 <h3 align="left">🛠 Language and tools </h3>
-
 <br/>
 
 <div align="left">
@@ -115,11 +112,10 @@
 <br />
 <br />
 
-## My activity on other
-<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /> Code forces </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en" alt="developermohib" /></p>
-
+## My activity on other
+<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /> Codeforces </a>
 
