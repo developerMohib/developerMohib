@@ -11,8 +11,8 @@
 - 🔭 I’m currently working on [Bisto-Boss](https://bisto-boss-b3cc1.web.app/)
 
 
-<h1> Current Stats</h1>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohib&" alt="developermohib" /></p>
+<h1> Current Stats </h1>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohib&theme=black-ice&sideLabels=%2300f0ff&sideNums=%2300f0ff" alt="developermohib" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
 <h3 align="left">Connect with me:</h3>
