@@ -10,7 +10,7 @@
 <h3 align="center"> I am passionate web developer from BD </h3> 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3>About Me </h3> 
-<p> I'm a passionate front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, and JavaScript, I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience.</p>
+<p> I'm a dedicated front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, JavaScript and Next Js (js framework React). I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend React Developer with a passion for transforming complex problems into intuitive user interfaces using Next js. </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br/>
@@ -101,6 +101,8 @@
 
 <br/>
 <br/>
+<h3 align="left">🛠 Language and tools 🛠 logo </h3>
+<br/>
 <p align="center">
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -122,7 +124,8 @@
 <br />
 
 <h3 align="left">🛠 My activity on other </h3>
-<a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" height="30" width="40" /> Codeforces </a>
+    <a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" style="padding-right:10px;" height="30" width="40" /> <span> Codeforces </span> </a>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
 
