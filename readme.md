@@ -25,13 +25,13 @@
 </ul>
 <br/>
 
-## My focus on
+## 🔥 My focus on
 - 🔭 I’m currently working on [Manage-Assets](https://manage-asset-b4cd2.web.app/)
 - 🌱 I’m currently learning NEXT.JS
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
 - 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
 <br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝 Connect with me:</h3>
 <div align="left">
   <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
@@ -53,7 +53,7 @@
   </a>
 </div>
 
-<h1> Current Stats </h1>
+<h1> 🔥 Current Stats </h1>
 <br/>
 <p align="center">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohib&background=000000&border=ffffff&stroke=ffffff&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&sideNums=00f0ff&currStreakNum=fb8c00&sideLabels=00f0ff&dates=ffffff" alt="developermohib" />
