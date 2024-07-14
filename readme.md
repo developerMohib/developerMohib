@@ -1,7 +1,7 @@
 <div id="header" align="center" style="width: 100%;">
     <img src="https://i.postimg.cc/C1nd8mzQ/github-header-image.png" alt="Banner Image" style="width: 100%;">
 </div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
 
 
 
@@ -50,7 +50,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
 
 <h1> Current Stats </h1>
 <br/>
