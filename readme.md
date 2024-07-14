@@ -7,7 +7,9 @@
 
 
 <h1 align="center">Hi 👋 There </h1>  
-<h3 align="center"> I am passionate web developer from BD </h3> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&random=true&width=435&lines=I+am+passionate+web+developer+from+BD;I+am+MERN+stack+developer+from+BD;I+am+junior+front+end+developer+from+BD)](https://git.io/typing-svg)
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3> :sassy_man: About Me </h3> 
 <p> I'm a dedicated front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, JavaScript and Next Js (js framework React). I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend React Developer with a passion for transforming complex problems into intuitive user interfaces using Next js. </p>
