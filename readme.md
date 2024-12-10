@@ -12,7 +12,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3> :sassy_man: About Me </h3> 
-<p> I'm a dedicated front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, JavaScript and Next Js (js framework React). I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend React Developer with a passion for transforming complex problems into intuitive user interfaces using Next js. </p>
+<p> I'm a dedicated front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, Typescripts (superset of JavaScript) and Next Js (js framework React). I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend React Developer with a passion for transforming complex problems into intuitive user interfaces using Next js. </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br/>
@@ -27,7 +27,7 @@
 
 ## 🔥 My focus on
 - 🔭 I’m currently working on [Manage-Assets](https://manage-asset-b4cd2.web.app/)
-- i am curretly working on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
+- 🔭 i am recently contribute on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
 - 🌱 I’m currently learning Typescript, next.js, mongoose
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
 - 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
@@ -37,7 +37,7 @@
   <a href="https://linkedin.com/in/mohibullah-mohim" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://x.com/Mohib333" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="twitter logo"  />
   </a>
   <a href="https://fb.com/mohibullah.jubileean" target="_blank">
@@ -49,7 +49,7 @@
   <a href="https://wa.me/8801706439736" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="whatsapp logo"  />
   </a>
-  <a href="mohibullahmohim2020@gmail.com" target="_blank">
+  <a href="mailto:mohibullahmohim2020@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
 </div>
@@ -66,6 +66,7 @@
 <br/>
 
 <div align="left">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20" alt="TypeScript Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
@@ -78,6 +79,8 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="20" alt="nextjs logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
+    <img width="0" />
+  <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" height="20" alt="Mongoose Badge" />
   <img width="0" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="20" alt="firebase logo"  />
   <img width="0" />
@@ -112,10 +115,12 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Mongoose" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
