@@ -88,6 +88,8 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="20" alt="github logo"  />
   <img width="0" />
+     <img src="https://img.shields.io/badge/Zod-EB7D6A?style=for-the-badge&logo=zod&logoColor=white" height="20" alt="Zod" />
+    <img width="0" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="20" alt="html5 logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
