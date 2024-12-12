@@ -104,6 +104,8 @@
   <img width="0" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="20" alt="vercel logo"  />
   <img width="0" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="20" alt="Postman" />
+     <img width="0" />
 </div>
 
 <br/>
