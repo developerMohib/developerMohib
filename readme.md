@@ -152,8 +152,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en" alt="developermohib" /></p>
 
-
-
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact&theme=dark&text_color=ffffff" alt="developermohib" />
 </p>
@@ -162,5 +160,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en&theme=dark&text_color=ffffff" alt="developermohib" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/developermohib/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developermohib&theme=react-dark" alt="developermohib's GitHub Activity Graph"/>
+  </a>
+</p>
 
 
