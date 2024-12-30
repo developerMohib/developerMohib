@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋 There </h1>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=000000&random=true&width=435&lines=I+am+passionate+web+developer+from+BD;I+am+MERN+stack+developer+from+BD;I+am+junior+front+end+developer+from+BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&random=true&width=435&lines=I+am+passionate+web+developer+from+BD;I+am+MERN+stack+developer+from+BD;I+am+junior+front+end+developer+from+BD)](https://git.io/typing-svg)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3> :sassy_man: About Me </h3> 
