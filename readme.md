@@ -152,6 +152,7 @@
 
 <h3 align="left">🛠 My activity on other </h3>
     <a href="https://codeforces.com/profile/barnard_shaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="barnard_shaw" style="padding-right:10px;" height="30" width="40" /> <span> Codeforces </span> </a>
+    <a href="https://leetcode.com/u/cSmN95EL2D/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"" alt="Mohibullah_Mohim" style="padding-right:10px;" height="30" width="40" /> <span> LeetCode </span> </a>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developermohib&show_icons=true&locale=en&layout=compact" alt="developermohib" /></p>
