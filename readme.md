@@ -26,8 +26,8 @@
 <br/>
 
 ## 🔥 My focus on
-- 🔭 I’m currently working on [Manage-Assets](https://manage-asset-b4cd2.web.app/)
-- 🔭 i am recently contribute on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
+- 🔭 I’m currently working on [EduNest]([https://github.com/developerMohib/edunest])
+- 🔭 i last contribute on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
 - 🌱 I’m currently learning Typescript, next.js, mongoose
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
 - 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
