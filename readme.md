@@ -30,7 +30,7 @@
 - 🔭 i last contribute on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
 - 🌱 I’m currently learning Typescript, next.js, mongoose
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
-- 📙 Check out my <a href="https://drive.google.com/file/d/1noOSoLZhdLSuA9NPXO4wtFEGOR0Nj1ny/view">resume</a>.
+- 📙 Check out my <a target="_blank" href="https://drive.google.com/file/d/12l9IkEsvO4s7gqAys8Ujs6RSHC8V8ip-/view?usp=drive_link">resume</a>.
 <br/>
 <h3 align="left"> 🤝 Connect with me:</h3>
 <div align="left">
