@@ -26,7 +26,7 @@
 <br/>
 
 ## 🔥 My focus on
-- 🔭 I’m currently working on [EduNest]([https://github.com/developerMohib/edunest])
+- 🔭 I’m currently working on [EduNest](https://github.com/developerMohib/edunest)
 - 🔭 i last contribute on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
 - 🌱 I’m currently learning Typescript, next.js, mongoose
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
