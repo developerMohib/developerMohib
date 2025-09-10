@@ -166,11 +166,3 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=developermohib&show_icons=true&locale=en&theme=dark&text_color=ffffff" alt="developermohib" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/developermohib/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=developermohib&theme=react-dark" alt="developermohib's GitHub Activity Graph"/>
-  </a>
-</p>
-
-
