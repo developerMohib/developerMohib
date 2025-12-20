@@ -13,8 +13,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3> :sassy_man: Who am i ?</h3> 
 <p> I'm a dedicated front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, Typescripts (superset of JavaScript) React js and Next Js (js framework of React) and vue js and angular js for front-end. I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend React Developer with a passion for transforming complex problems into intuitive user interfaces using Next js. </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br/>
 
 <ul>
