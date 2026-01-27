@@ -1,7 +1,7 @@
 <div id="header" align="center" style="width: 100%;">
     <img src="https://i.postimg.cc/VkkXpktS/mohib-dev.jpg" alt="Banner Image" style="width: 100%;">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpv?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
 
 
 
