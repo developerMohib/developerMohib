@@ -1,24 +1,24 @@
 <div id="header" align="center" style="width: 100%;">
     <img src="https://i.postimg.cc/VkkXpktS/mohib-dev.jpg" alt="Banner Image" style="width: 100%;">
 </div>
-<p align="left"> <img src="https://komarev.com/ghpv?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developermohib&label=Profile%20views&color=0e75b6&style=flat" alt="developermohib" /> </p>
 
 
 
 
 <h1 align="center">Hi 👋 There </h1>  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&random=true&width=435&lines=I+am+passionate+web+developer+from+BD;I+am+MERN+stack+developer+from+BD;I+am+junior+front+end+developer+from+BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&random=true&width=435&lines=I'm+passionate+web+developer+from+BD;I'm+MERN+stack+developer+from+BD;I'm+junior+frontend+dev+from+BD;I'm+junior+backend+dev+from+BD)](https://git.io/typing-svg)
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3> :sassy_man: Who am i ?</h3> 
-<p> I'm a dedicated front-end developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, Typescripts (superset of JavaScript) React js and Next Js (js framework of React) and vue js and angular js for front-end. I specialize in building responsive, user-friendly interfaces. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend React Developer with a passion for transforming complex problems into intuitive user interfaces using Next js. </p>
+<p> I'm a dedicated full stack developer with a knack for creating dynamic and visually appealing web applications. With a strong foundation in HTML, CSS, Typescripts (superset of JavaScript) React js (library) and Next Js (js framework of React) and vue js and angular js for front-end and Node js, express js, mongoDB with mongoose ORM for backend. I specialize in building responsive, user-friendly interfaces and O(n) scalable backend code for run time faster. I thrive on turning design concepts into reality and continuously learning about new technologies to enhance user experience and dedicated to Frontend and backend Developer with a passion for transforming complex problems into intuitive user interfaces using Next js and Node js </p>
 <br/>
 
 <ul>
   <li>I have been very passionate about computers, programming, and web development. </li>
   <li>To build up myself as an expert a web developer to build professional and valuable web applications that growth business value.</li>
-  <li>Fresher in Web Development as a front-end developer.</li>
+  <li>Fresher in Web Development as a front-end and backend developer.</li>
   <li>Good reputation for resolving problems and improving client satisfaction</li>
 </ul>
 <br/>
@@ -28,7 +28,7 @@
 - 🔭 i last contribute on a team project [LearnUp](https://web-innovators-learnup.vercel.app/)
 - 🌱 I’m currently learning Typescript, next.js, mongoose
 - 👨‍💻 Most of my projects are available on <a href="https://github.com/developerMohib">Github</a>.
-- 📙 Check out my <a target="_blank" href="https://drive.google.com/file/d/12l9IkEsvO4s7gqAys8Ujs6RSHC8V8ip-/view?usp=drive_link">resume</a>.
+- 📙 Check out my <a target="_blank" href="https://drive.google.com/file/d/1Pxsl94hutSkC16r3M-i-Tua_JP8J03OX/view?usp=sharing">resume</a>.
 <br/>
 <h3 align="left"> 🤝 Connect with me:</h3>
 <div align="left">
@@ -60,75 +60,58 @@
 
 
 ## 🏆 GitHub Trophy
-<br/>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=developerMohib&theme=onedark&column=8" alt="developerMohib" />
-  </a>
-</p>
-
-<br/>
 
 <h3 align="left">🛠 Language and tools </h3>
+<h3 align="left">🛠 Frontend technical skills </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="20" alt="nextjs logo"  />
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo"  />
+    <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=black&style=for-the-badge" height="20" alt="vue logo"  />
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="20" alt="angular logo" />
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20" alt="TypeScript Badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
+     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="20" alt="html5 logo"  />
+     <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="20" alt="css3 logo"  />
+</div>
+
 <br/>
 
+<h3 align="left">🛠 Backend technical skills </h3>
 <div align="left">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20" alt="TypeScript Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
-  <img width="0" />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="20" alt="react logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=black&style=for-the-badge" height="20" alt="vue logo"  />
-  <img width="0" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="20" alt="angular logo" />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="20" alt="nextjs logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
-    <img width="0" />
+     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="20" alt="TypeScript Badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="20" alt="javascript logo"  />
+     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
+     <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="20" alt="express logo"  />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="20" alt="mongodb logo"  />
   <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" height="20" alt="Mongoose Badge" />
-  <img width="0" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="20" alt="firebase logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Git0503At-logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo"  />
-  <img width="0" />
+</div>
+<br/>
+
+<h3 align="left">🛠 Tools & Libraries </h3>
+<div align="left">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="20" alt="git logo" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="20" alt="github logo"  />
-  <img width="0" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" height="20" alt="axios logo" />
+    <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" height="20" alt="tanstack query logo" />
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge" height="20" alt="react hook form logo" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  />
      <img src="https://img.shields.io/badge/Zod-EB7D6A?style=for-the-badge&logo=zod&logoColor=white" height="20" alt="Zod" />
-    <img width="0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="20" alt="html5 logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="20" alt="tailwindcss logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="20" alt="css3 logo"  />
-  <img width="0" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="20" alt="figma logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="20" alt="vscode logo"  />
-  <img width="0" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="20" alt="npm logo"  />
-  <img width="0" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="20" alt="vercel logo"  />
-  <img width="0" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="20" alt="Postman" />
-     <img width="0" />
 </div>
 
 <br/>
 <br/>
-<h3 align="left">🛠 Language and tools 🛠 logo </h3>
-<br/>
+<h3 align="left">🛠 Language and tools</h3>
 <p align="center">
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="26px" style="padding-right:10px; filter: brightness(0) invert(1);" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
