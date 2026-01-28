@@ -54,9 +54,7 @@
 
 <h1> 🔥 Current Stats </h1>
 <br/>
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developermohib&background=000000&border=ffffff&stroke=ffffff&ring=fb8c00&fire=fb8c00&currStreakLabel=fb8c00&sideNums=00f0ff&currStreakNum=fb8c00&sideLabels=00f0ff&dates=ffffff" alt="developermohib" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developerMohib" alt="GitHub Streak" /></a>
 
 
 ## 🏆 GitHub Trophy
