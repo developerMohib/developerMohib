@@ -71,7 +71,7 @@
   <tr>
     <td valign="top" align="center"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,ts" alt="Backend skills" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,ts,python,fastapi" alt="Backend skills" />
     </td>
   </tr>
   <tr>
