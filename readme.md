@@ -91,7 +91,7 @@
   <tr>
     <td valign="top" align="center"><b>Design</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd" alt="Design skills" />
+      <img src="https://skillicons.dev/icons?i=figma,canva" alt="Design skills" />
     </td>
   </tr>
 </table>
